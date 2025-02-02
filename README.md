@@ -1,2 +1,2 @@
 # AI-All-In-One-
-This is the note that I created to learn Python, SQL, and AI 
+Đây là 1 repos mình tạo, để lưu trữ các bài tập, đồ án nhỏ, mà mình làm về AI 
